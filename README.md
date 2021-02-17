@@ -4,11 +4,11 @@
 > The ip, url, base64, hexa, mails, mac address and phone number (FR)<br>
 > Can be parse by this script.<br>
 ## Options:
-> -h 		Show this message
-> -i 		Use regex to find IPv4 addresses
-> -u 		Use regex to find url
-> -b 		Use regex to find base64
-> -x 		Use regex to find hexa
-> -m 		Use regex to find emails
-> -a 		Use regex to find mac addresses
-> -p 		Use regex to find phones numbers (FR)
+> -h 		Show this message<br>
+> -i 		Use regex to find IPv4 addresses<br>
+> -u 		Use regex to find url<br>
+> -b 		Use regex to find base64<br>
+> -x 		Use regex to find hexa<br>
+> -m 		Use regex to find emails<br>
+> -a 		Use regex to find mac addresses<br>
+> -p 		Use regex to find phones numbers (FR)<br>
